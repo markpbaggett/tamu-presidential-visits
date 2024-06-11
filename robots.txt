@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://markpbaggett.github.io/tamu-presidential-visits
+
+# Sitemaps
+Sitemap: https://markpbaggett.github.io/tamu-presidential-visits/sitemap.xml
