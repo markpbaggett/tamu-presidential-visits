@@ -1,0 +1,17 @@
+{
+  "label": { "none": ["Presidential Visits at Texas A&M"] },
+  "collection": "https://raw.githubusercontent.com/markpbaggett/static_iiif/main/collections/tamu-presidential-visits.json",
+  "featured": [
+    "https://api.library.tamu.edu/iiif-service/dspace/presentation/1969.1/115225"
+  ],
+  "metadata": [
+    "issued"
+  ],
+  "theme": {
+    "defaultTheme": "dark",
+    "enableToggle": true,
+    "accentColor": "mint",
+    "radius": "small",
+    "scaling": "110%"
+  }
+}
